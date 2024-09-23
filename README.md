@@ -8,9 +8,29 @@ I enjoy building scalable solutions and constantly exploring new technologies li
 
 - 🔭 I’m currently working with BeraHub and a telegram bot for web3 integration.
 - 💬 Ask me about web3
+- 👯 I’m looking to collaborate with Blockchain Developers in the world
 - 📫 How to reach me kensgx@segurodev.pro
 
 ⚡ Fun fact I am always with you.
+
+## 🛠️ Languages and Tools:
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+## 🌐 Connect with me:
+
+[![Instagram](https://img.shields.io/badge/-kensgx__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kensgx__)
+[![Telegram](https://img.shields.io/badge/-kensgx-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kensgx)
+[![Twitter](https://img.shields.io/badge/-kens_dev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kens_dev)
+
+
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kensdv&show_icons=true)
