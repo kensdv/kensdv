@@ -6,6 +6,11 @@
 I'm passionate about building on blockchain, backend web development and dApps. 
 I enjoy building scalable solutions and constantly exploring new technologies in Web3. Let's collaborate and build something great together!
 
+I have a strong understanding of building and maintaining smart contracts. 
+I often deal with smart contracts development (tokens, liquidity pools, liquidity providers, arbitrage bots), development of DeFi platforms, dApps, GameFi and others. 
+
+Skills: Solidity | Ethereum | Smart Contract| Web3js | Hardhat | Cryptography | JavaScript | Reactjs| Nodejs | Git
+
 - 🔭 I’m currently working with BeraHub on Bera chain and a telegram bot for web3 integration.
 - 💬 Ask me about web3
 - 👯 I’m looking to collaborate with Blockchain Developers in the world
