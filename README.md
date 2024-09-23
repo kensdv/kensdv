@@ -4,9 +4,9 @@
 
 ## About Me
 I'm passionate about building on blockchain, backend web development and dApps. 
-I enjoy building scalable solutions and constantly exploring new technologies like Solana and Web3. Let's collaborate and build something great together!
+I enjoy building scalable solutions and constantly exploring new technologies in Web3. Let's collaborate and build something great together!
 
-- 🔭 I’m currently working with BeraHub and a telegram bot for web3 integration.
+- 🔭 I’m currently working with BeraHub on Bera chain and a telegram bot for web3 integration.
 - 💬 Ask me about web3
 - 👯 I’m looking to collaborate with Blockchain Developers in the world
 - 📫 How to reach me kensgx@segurodev.pro
