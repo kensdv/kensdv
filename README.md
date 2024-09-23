@@ -1,9 +1,9 @@
 
-# Hi, I'm [KeNs]! 👋
+# Hi 👋, I'm KeNs 
 ![Profile Banner](/header.png) <!-- Add a banner if you want -->
 
 ## About Me
-I'm a passionate about building on blockchain, backend web development and dApps. 
+I'm passionate about building on blockchain, backend web development and dApps. 
 I enjoy building scalable solutions and constantly exploring new technologies like Solana and Web3. Let's collaborate and build something great together!
 
 - 🔭 I’m currently working with BeraHub and a telegram bot for web3 integration.
