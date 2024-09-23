@@ -24,12 +24,12 @@ I enjoy building scalable solutions and constantly exploring new technologies li
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+
 ## 🌐 Connect with me:
 
 [![Instagram](https://img.shields.io/badge/-kensgx__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kensgx__)
 [![Telegram](https://img.shields.io/badge/-kensgx-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kensgx)
-[![Twitter](https://img.shields.io/badge/-kens_dev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kens_dev)
-
+[![Twitter X](https://img.shields.io/badge/-kens_dev-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/kens_dev)
 
 
 ## 📊 GitHub Stats
