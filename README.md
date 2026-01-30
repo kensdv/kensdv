@@ -34,7 +34,7 @@ Skills: Solidity | Ethereum | Smart Contract| Web3js | Hardhat | Cryptography | 
 ## 🌐 Connect with me:
 
 [![Instagram](https://img.shields.io/badge/-kensgx__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/qxb1000)
-[![Telegram](https://img.shields.io/badge/-kensgx-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/qxb1000)
+[![Telegram](https://img.shields.io/badge/-qxb1000-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/qxb1000)
 [![Twitter X](https://img.shields.io/badge/-kens_dev-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/kens_dev)
 
 
