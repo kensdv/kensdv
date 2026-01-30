@@ -14,7 +14,7 @@ Skills: Solidity | Ethereum | Smart Contract| Web3js | Hardhat | Cryptography | 
 - 🔭 I’m currently working with BeraHub on Bera chain and a telegram bot for web3 integration.
 - 💬 Ask me about web3
 - 👯 I’m looking to collaborate with Blockchain Developers in the world
-- 📫 How to reach me kensgx@segurodev.pro
+- 📫 How to reach me TG @qxb1000
 
 ⚡ Fun fact I am always with you.
 
